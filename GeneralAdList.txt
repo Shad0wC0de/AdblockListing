@@ -43,3 +43,5 @@ logservice.hicloud.com
 grs.hicloud.com
 metrics2.data.hicloud.com
 metrics.data.hicloud.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
