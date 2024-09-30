@@ -21,3 +21,9 @@ ads-sg.tiktok.com
 analytics-sg.tiktok.com
 business-api.tiktok.com
 log.byteoversea.com
+extmaps-api.yandex.net
+appmetrica.yandex.ru
+adfstat.yandex.ru
+metrika.yandex.ru
+offerwall.yandex.net
+adfox.yandex.ru
